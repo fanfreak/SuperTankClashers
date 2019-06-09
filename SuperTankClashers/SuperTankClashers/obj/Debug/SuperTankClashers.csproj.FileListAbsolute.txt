@@ -1,0 +1,11 @@
+C:\Users\keand\source\repos\SuperTankClashers\SuperTankClashers\bin\Debug\SuperTankClashers.exe.config
+C:\Users\keand\source\repos\SuperTankClashers\SuperTankClashers\bin\Debug\SuperTankClashers.exe
+C:\Users\keand\source\repos\SuperTankClashers\SuperTankClashers\bin\Debug\SuperTankClashers.pdb
+C:\Users\keand\source\repos\SuperTankClashers\SuperTankClashers\obj\Debug\SuperTankClashers.csprojAssemblyReference.cache
+C:\Users\keand\source\repos\SuperTankClashers\SuperTankClashers\obj\Debug\SuperTankClashers.Form1.resources
+C:\Users\keand\source\repos\SuperTankClashers\SuperTankClashers\obj\Debug\SuperTankClashers.Properties.Resources.resources
+C:\Users\keand\source\repos\SuperTankClashers\SuperTankClashers\obj\Debug\SuperTankClashers.Resource1.resources
+C:\Users\keand\source\repos\SuperTankClashers\SuperTankClashers\obj\Debug\SuperTankClashers.csproj.GenerateResource.cache
+C:\Users\keand\source\repos\SuperTankClashers\SuperTankClashers\obj\Debug\SuperTankClashers.csproj.CoreCompileInputs.cache
+C:\Users\keand\source\repos\SuperTankClashers\SuperTankClashers\obj\Debug\SuperTankClashers.exe
+C:\Users\keand\source\repos\SuperTankClashers\SuperTankClashers\obj\Debug\SuperTankClashers.pdb
